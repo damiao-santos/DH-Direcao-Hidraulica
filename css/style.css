@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+}
+
+#maps{
+    margin-left: 250px;
+}
+
+div h3{
+    text-align: center;
+}
