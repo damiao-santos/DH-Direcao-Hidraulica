@@ -2,7 +2,9 @@ body {
     background-color: lightgray;
 }
 
-
+.margin-slide{
+    margin-top: -50px;
+}
 
 div h3{
     text-align: center;
