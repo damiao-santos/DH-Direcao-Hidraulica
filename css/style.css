@@ -3,9 +3,18 @@ body {
 }
 
 .margin-slide{
-    margin-top: -50px;
+    margin-top: 20px;
 }
 
 div h3{
     text-align: center;
+}
+
+#onde_estamos{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#fale_conosco{
+    margin-top: 50px;
 }
