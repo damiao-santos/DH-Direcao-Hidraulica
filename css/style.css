@@ -3,7 +3,8 @@ body {
 }
 
 .margin-slide{
-    margin-top: 20px;
+    padding-top: 20px;
+    margin-top: 50px;
 }
 
 div h3{
