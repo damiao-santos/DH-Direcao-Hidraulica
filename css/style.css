@@ -1,21 +1,53 @@
 body {
+    content: '';
+    position: relative;
+    color: white;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+  background: var(--color-darkblue);
+  background-image: url("/img/back.jpeg");
+  background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     background-color: lightgray;
+}
+
+main{
+    content: '';
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+background: var(--color-darkblue);
+background-image: linear-gradient(115deg, rgba(53, 53, 53, 0.7), rgba(158, 157, 157, 0.7),rgba(135, 135, 136, 0.7), rgba(70, 69, 69, 0.7), rgba(81, 81, 83, 0.7) ),
+ url("/img/atab.jpeg");
+
+}
+/* Inicio Galeria */
+#galeria{
+    margin-top: 70px;
 }
 
 .margin-slide{
     padding-top: 20px;
-    margin-top: 50px;
+    
 }
-
+/*Final Galeria*/
 div h3{
     text-align: center;
 }
 
-#onde_estamos{
-    margin-top: 50px;
+#ondeEstamos{
+    
+    margin-top: 30px;
     margin-bottom: 30px;
 }
 
-#fale_conosco{
+#faleConosco{
     margin-top: 50px;
 }
