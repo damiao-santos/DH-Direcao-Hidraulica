@@ -8,7 +8,7 @@ body {
     left: 0;
     z-index: 1;
   background: var(--color-darkblue);
-  background-image: url("/back.jpeg");
+  background-image: url("https://i.ibb.co/C5hn2zb/back.jpg");
   background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
