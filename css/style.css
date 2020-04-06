@@ -8,7 +8,7 @@ body {
     left: 0;
     z-index: 1;
   background: var(--color-darkblue);
-  background-image: url("/img/back.jpeg");
+  background-image: url("/back.jpeg");
   background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
