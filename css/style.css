@@ -15,7 +15,11 @@ body {
     background-position: center;
     background-color: lightgray;
 }
-
+hr{
+    border: 1px solid white;
+margin: 30px auto -50px;
+width: 100px;
+}
 h3{
     font-weight: 600;
 }
@@ -35,6 +39,12 @@ background-image: linear-gradient(115deg, rgba(96, 89, 131, 0.7), rgba(91, 90, 1
 .bar-right{
     justify-content: right;
 }
+
+#imagem{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
 /* Inicio Galeria */
 #galeria{
     margin-top: 70px;
@@ -51,12 +61,20 @@ div h3{
 
 #ondeEstamos{
     
-    margin-top: 30px;
+    margin-top: 60px;
     margin-bottom: 30px;
 }
 
 #faleConosco{
-    margin-top: 50px;
+    margin-top: 60px;
+}
+
+.center{
+    text-align: center;
+}
+.img-center{
+    display: flex;
+    justify-content: center;
 }
 
 
