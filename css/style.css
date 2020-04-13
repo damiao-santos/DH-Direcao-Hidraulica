@@ -32,6 +32,9 @@ background-image: linear-gradient(115deg, rgba(96, 89, 131, 0.7), rgba(91, 90, 1
  url("/img/atab.jpeg");
 
 }
+.bar-right{
+    justify-content: right;
+}
 /* Inicio Galeria */
 #galeria{
     margin-top: 70px;
