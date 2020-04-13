@@ -2,6 +2,7 @@ body {
     content: '';
     position: relative;
     color: white;
+    
     height: 100%;
     width: 100%;
     top: 0;
@@ -15,6 +16,9 @@ body {
     background-color: lightgray;
 }
 
+h3{
+    font-weight: 600;
+}
 main{
     content: '';
   position: relative;
@@ -24,7 +28,7 @@ main{
   width: 100%;
   z-index: -1;
 background: var(--color-darkblue);
-background-image: linear-gradient(115deg, rgba(53, 53, 53, 0.7), rgba(158, 157, 157, 0.7),rgba(135, 135, 136, 0.7), rgba(70, 69, 69, 0.7), rgba(81, 81, 83, 0.7) ),
+background-image: linear-gradient(115deg, rgba(96, 89, 131, 0.7), rgba(91, 90, 114, 0.7),rgba(77, 74, 116, 0.7), rgba(182, 132, 75, 0.7), rgba(182, 130, 72, 0.7) ),
  url("/img/atab.jpeg");
 
 }
@@ -51,3 +55,6 @@ div h3{
 #faleConosco{
     margin-top: 50px;
 }
+
+
+
