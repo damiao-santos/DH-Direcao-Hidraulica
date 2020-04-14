@@ -32,8 +32,7 @@ main{
   width: 100%;
   z-index: -1;
 background: var(--color-darkblue);
-background-image: linear-gradient(115deg, rgba(96, 89, 131, 0.7), rgba(91, 90, 114, 0.7),rgba(77, 74, 116, 0.7), rgba(182, 132, 75, 0.7), rgba(182, 130, 72, 0.7) )
-
+background-image: linear-gradient(115deg, rgba(96, 89, 131, 0.9), rgba(91, 90, 114, 0.9),rgba(77, 74, 116, 0.9), rgba(182, 132, 75, 0.9), rgba(182, 130, 72, 0.9) );
 
 }
 .bar-right{
@@ -52,6 +51,9 @@ background-image: linear-gradient(115deg, rgba(96, 89, 131, 0.7), rgba(91, 90, 1
     z-index: -1;
 
   background-image: linear-gradient(115deg, rgb(241, 95, 11, 0.9), rgb(214, 107, 36, 0.9),rgb(223, 92, 32, 0.9), rgb(211, 133, 44, 0.9), rgb(204, 139, 65, 0.9) )
+}
+#quemsomos{
+    margin-top: 70px;
 }
 /* Inicio Galeria */
 #galeria{
